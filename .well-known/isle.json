@@ -1,0 +1,7 @@
+{
+  "apps": {
+    "docker": {
+      "github": "lab47/isle-apps/docker"
+    }
+  }
+}
