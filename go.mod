@@ -9,7 +9,6 @@ require (
 	github.com/containerd/go-cni v1.1.3
 	github.com/containerd/nerdctl v0.17.1
 	github.com/containernetworking/cni v1.0.1
-	github.com/containernetworking/plugins v1.1.0
 	github.com/creack/pty v1.1.17
 	github.com/davecgh/go-spew v1.1.1
 	github.com/docker/distribution v2.7.1+incompatible
@@ -19,7 +18,6 @@ require (
 	github.com/google/go-containerregistry v0.5.1
 	github.com/google/go-github/v43 v43.0.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
-	github.com/gorilla/mux v1.8.0
 	github.com/hashicorp/go-getter v1.5.11
 	github.com/hashicorp/go-hclog v1.2.0
 	github.com/hashicorp/hcl/v2 v2.11.1
@@ -29,7 +27,6 @@ require (
 	github.com/klauspost/compress v1.14.2
 	github.com/mattn/go-isatty v0.0.14
 	github.com/mattn/go-runewidth v0.0.13
-	github.com/mattn/go-sqlite3 v1.14.12
 	github.com/mdlayher/vsock v1.1.1
 	github.com/miekg/dns v1.1.35
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db
@@ -93,7 +90,7 @@ require (
 	github.com/moby/sys/mountinfo v0.6.0 // indirect
 	github.com/moby/sys/signal v0.6.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
-	github.com/opencontainers/runc v1.1.0 // indirect
+	github.com/opencontainers/runc v1.1.5 // indirect
 	github.com/opencontainers/selinux v1.10.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
