@@ -9,7 +9,6 @@ require (
 	github.com/containerd/go-cni v1.1.3
 	github.com/containerd/nerdctl v0.17.1
 	github.com/containernetworking/cni v1.0.1
-	github.com/containernetworking/plugins v1.1.0
 	github.com/creack/pty v1.1.17
 	github.com/davecgh/go-spew v1.1.1
 	github.com/docker/distribution v2.7.1+incompatible
@@ -19,7 +18,6 @@ require (
 	github.com/google/go-containerregistry v0.5.1
 	github.com/google/go-github/v43 v43.0.0
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
-	github.com/gorilla/mux v1.8.0
 	github.com/hashicorp/go-getter v1.5.11
 	github.com/hashicorp/go-hclog v1.2.0
 	github.com/hashicorp/hcl/v2 v2.11.1
@@ -29,7 +27,6 @@ require (
 	github.com/klauspost/compress v1.14.2
 	github.com/mattn/go-isatty v0.0.14
 	github.com/mattn/go-runewidth v0.0.13
-	github.com/mattn/go-sqlite3 v1.14.12
 	github.com/mdlayher/vsock v1.1.1
 	github.com/miekg/dns v1.1.35
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db
@@ -68,7 +65,7 @@ require (
 	github.com/containerd/ttrpc v1.1.0 // indirect
 	github.com/containerd/typeurl v1.0.2 // indirect
 	github.com/docker/cli v20.10.12+incompatible // indirect
-	github.com/docker/docker v20.10.12+incompatible // indirect
+	github.com/docker/docker v24.0.7+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.6.4 // indirect
 	github.com/docker/go-events v0.0.0-20190806004212-e31b211e4f1c // indirect
 	github.com/fatih/color v1.13.0 // indirect
